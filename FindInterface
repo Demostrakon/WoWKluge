@@ -1,0 +1,3 @@
+/* Make this into a macro to find the interface version you're using. */
+
+/run print((select(4, GetBuildInfo())));
